@@ -26,6 +26,9 @@ This React-based web application explores the concept of transformation through 
 # Clone the repository
 git clone https://github.com/ASR172051/metamorphosis.git
 
+# change current directory
+cd metamorphosis
+
 # Install dependencies
 npm install
 
